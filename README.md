@@ -1,11 +1,8 @@
 # Fb_details_scrapper
 
-## This scrapper can be used to scrap mobile number of friends of any person 
+## This module can be used to scrap public data from facebook
 
 ## Steps - 
 ### 1) Install bs4 ``` pip install bs4```
-### 2) Put your Username and password in Mulsti.sh
-### 3) Put the username of the person whose friends details you wanna get in Multi.sh
-### 4) Run Multi.sh ``` bash Multi.sh```
-
-Done :p
+### 2) Run ```Main.py testEnv``` to see the format and results from dummy data
+### 3) Run ```Main.py``` and give your username and password to fetch real data 
